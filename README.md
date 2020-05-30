@@ -1,4 +1,4 @@
-# NoInternet
+# Observe Internet Connectivity in View Layer using LiveData
 
 Wrapping Network Connection into a LiveData object which can be observed by the View Layer.
 

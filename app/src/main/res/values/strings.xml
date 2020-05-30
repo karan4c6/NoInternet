@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">NoInternet</string>
+    <string name="network_connected">Internet Connected</string>
+    <string name="network_disconnected">Internet Disconnected</string>
 </resources>
